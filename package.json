@@ -1,12 +1,12 @@
 {
-  "name": "555",
+  "name": "netlify",
   "version": "1.0.0",
   "private": true,
-  "description": "A",
+  "description": "A deploy",
   "engines": {
     "node": "20.x"
   },
   "scripts": {
-    "dev": "vercel dev"
+    "dev": "netlify dev"
   }
 }
